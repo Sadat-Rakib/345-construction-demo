@@ -1,0 +1,16 @@
+[
+  {
+    "project": "345-construction",
+    "source": ".",
+    "worker": false,
+    "files": [
+      "index.html",
+      "en.html",
+      "styles.css",
+      "app.js",
+      "favicon.svg",
+      "CREDITS.md",
+      "assets"
+    ]
+  }
+]
